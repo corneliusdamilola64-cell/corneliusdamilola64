@@ -15,39 +15,53 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst with a chemical science background and 3 years of teaching experience at both primary and secondary levels. My journey spans laboratory science, industrial processes, education, and data analysis — giving me a well-rounded, analytical approach to solving real-world problems.
+I'm a Data Analyst with a background in Industrial Chemistry and a passion for transforming data into actionable business insights.
 
-I specialize in uncovering trends, automating repetitive tasks, and building dashboards that actually get used — turning messy datasets into clear stories and models that help businesses plan for the future. I work hands-on with SQL, Power BI, Excel, and scientific data tools, blending analytical thinking with scientific reasoning.
+I specialize in cleaning, analyzing, and visualizing data to help organizations make informed, data-driven decisions. Using **Excel, SQL, Power BI, and Power Query**, I build interactive dashboards, automate reporting processes, and uncover trends that support business growth and operational efficiency.
 
-When I'm not working with data, I'm exploring academic work — merging my passion for chemical research and business. I love the "aha!" moment when data brings something new and useful to light.
+My interests lie in **Business Intelligence, data visualization, dashboard development, KPI reporting, and data storytelling**. I enjoy working on real-world projects that combine technical analysis with practical business solutions, and I'm continuously expanding my skills in SQL, DAX, data modeling, and modern analytics tools.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+I'm always open to collaborating on impactful data projects, learning from the data community, and creating solutions that turn complex data into clear, meaningful insights.
 
-- **DTLM Hostel Booking Project:** Analyzing BookingData for Dataleum Hostel Group(DHG) in Powerbi.   
-- **DTLM Super Mart sales data**: DTLM Supermart Sales Store Analysis in Excel.
-  
-## 🌱 Currently Learning 
+---
 
-- DATA STORYTELLING
-  
-## 🛠️ Technical Skillset
+## 🛠 Tech Stack & Expertise
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+**📊 Business Intelligence:** Power BI • DAX • Power Query • Dashboard Development • KPI Reporting • Data Visualization
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-</p>
+**📈 Data Analytics:** Microsoft Excel • SQL • Data Cleaning & Transformation • Exploratory Data Analysis (EDA) • Business Reporting
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+**🗃️ Data Modeling:** Star Schema • Snowflake Schema • Fact & Dimension Tables • Relationship Modeling
+
+**💼 Professional Skills:** Analytical Thinking • Problem Solving • Business Insight Generation • Data Storytelling • Communication • Collaboration • Attention to Detail
+
+---
+
+## 📂 Featured Projects
+
+### 🏨 Hotel Booking Dashboard
+📌 **Tools:** Power BI • SQL • Excel  
+📊 Interactive dashboard analyzing booking trends, occupancy rates, cancellations, and revenue.  
+🔗 **View Project**
+
+---
+
+### 🗳 Election Data Analysis
+📌 **Tools:** Excel • Power Query • Power BI  
+📊 Cleaned election data, detected voting anomalies, and developed interactive dashboards for data-driven insights.  
+🔗 **View Project**
+
+---
+
+### 👗 Customer Review Analysis
+📌 **Tools:** Excel • Power BI  
+📊 Explored customer reviews, product ratings, and recommendation patterns to support business improvement.  
+🔗 **View Project**
+
+### 📬 Connect With Me
+
+- **Portfolio Website:** https://komobolaji20-droid.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/omobolaji-kehinde-a53912402
+
+
+
