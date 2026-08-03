@@ -58,10 +58,7 @@ I'm always open to collaborating on impactful data projects, learning from the d
 📊 Explored customer reviews, product ratings, and recommendation patterns to support business improvement.  
 🔗 **View Project**
 
-### 📬 Connect With Me
 
-- **Portfolio Website:** https://komobolaji20-droid.github.io/
-- **LinkedIn:** https://www.linkedin.com/in/omobolaji-kehinde-a53912402
 
 
 
