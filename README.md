@@ -127,17 +127,6 @@ Below are some of the end-to-end analytics projects I've built. Every repository
 | 🏨 Hotel Booking Analysis | Hospitality | [Repository](https://github.com/YOUR_USERNAME/hotel-booking-analysis) |
 | 🗳️ Election Analytics Dashboard | Public Sector | [Repository](https://github.com/YOUR_USERNAME/election-analytics-dashboard) |
 
-Each repository includes:
-
-- Business Problem
-- Stakeholders & Business Questions
-- Dataset Overview
-- Data Cleaning & Transformation
-- Dashboard Preview
-- Key Insights
-- Business Recommendations
-- Documentation
-
 ---
 
 # 📈 My Analytical Principles
