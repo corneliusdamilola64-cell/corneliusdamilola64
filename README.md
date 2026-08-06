@@ -115,7 +115,7 @@ I believe dashboards don't create value.
 
 ---
 
-# 📂 📈 Data Analytics Portfolio
+# 📂 Data Analytics Portfolio
 
 Below are some of the end-to-end analytics projects I've built. Every repository documents the complete analytical process—from defining the business problem to delivering actionable insights and recommendations.
 
