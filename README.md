@@ -186,18 +186,6 @@ I don't simply want to build dashboards.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"/>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
 I'm always open to connecting with fellow data professionals, recruiters, hiring managers, and organizations that believe in data-driven decision-making.
