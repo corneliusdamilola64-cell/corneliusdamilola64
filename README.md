@@ -121,7 +121,7 @@ Below are some of the end-to-end analytics projects I've built. Every repository
 
 | Project | Domain | Repository |
 |----------|---------|------------|
-| 📊 Investment Preference & Behaviour Dashboard | Finance | [Repository]([https://github.com/YOUR_USERNAME/investment-preference-dashboard](https://github.com/corneliusdamilola64-cell/Investment-Preference-Analysis)) |
+| 📊 Investment Preference & Behaviour Dashboard | Finance | [Repository](https://github.com/corneliusdamilola64-cell/Investment-Preference-Analysis) |
 | 📦 Amazon E-Commerce Sales Analysis | E-Commerce | [Repository](https://github.com/YOUR_USERNAME/amazon-ecommerce-analysis) |
 | 👗 Women's Clothing Customer Review Analysis | Retail Analytics | [Repository](https://github.com/YOUR_USERNAME/womens-clothing-review-analysis) |
 | 🏨 Hotel Booking Analysis | Hospitality | [Repository](https://github.com/YOUR_USERNAME/hotel-booking-analysis) |
